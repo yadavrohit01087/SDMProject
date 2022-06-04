@@ -1,5 +1,6 @@
 
 public class Book {
+	int id;
 	int book_id;
 	String name;
 	String author_name;
