@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+import java.util.*;
 public class Circle {
 	
 	Point center;//reference created
