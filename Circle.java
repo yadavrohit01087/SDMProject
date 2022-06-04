@@ -45,7 +45,7 @@ public class Circle {
 	public void Area()
 	{
 	   area=radius*radius;
-		
+		System.out.println(area);        //edited by Govind
 	}
 
 
