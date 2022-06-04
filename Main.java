@@ -1,5 +1,6 @@
 import java.util.Scanner;
 //edited by mandar
+//change from duplicate
 public class Main {
 
 	public static void main(String [] args)
