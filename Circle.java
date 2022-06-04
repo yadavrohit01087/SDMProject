@@ -1,7 +1,8 @@
 import java.util.Scanner;
 import java.util.*;
+
 public class Circle {
-	
+	//code to be modifed
 	Point center;//reference created
 	private int radius;
 	private int area;
